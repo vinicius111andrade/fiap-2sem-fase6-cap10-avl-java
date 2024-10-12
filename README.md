@@ -1,5 +1,7 @@
 # fiap-2sem-fase6-cap10-avl-java
 
+Video apresentacao: https://youtu.be/B0Z8Yzz9E-4
+
 Desenvolvam o sistema, atendendo aos seguintes requisitos:
 
 1. Fazer o cadastro dos clientes da empresa (recomenda-se em JAVA, mas Python também é uma opção caso queira).
